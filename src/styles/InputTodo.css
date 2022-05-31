@@ -1,0 +1,9 @@
+form {
+  width: 60vw;
+  display: flex;
+}
+
+form input {
+  width: 80%;
+  height: 40px;
+}

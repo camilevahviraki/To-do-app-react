@@ -1,0 +1,12 @@
+li {
+  width: 60vw;
+  height: 40px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+li p {
+  min-width: 70%;
+}
